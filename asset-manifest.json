@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.42300d1c.css",
+    "main.js": "./static/js/main.867da7f6.js",
+    "static/media/home-banner-image.webp": "./static/media/home-banner-image.b0e056a84d444fd12998.webp",
+    "static/media/about-background-image.webp": "./static/media/about-background-image.21645d6f0254285c357e.webp",
+    "static/media/john-doe-image.webp": "./static/media/john-doe-image.3e7abfa828f2078868c9.webp",
+    "static/media/Logo.svg": "./static/media/Logo.56ad59d23ceff242946a01628e79e275.svg",
+    "static/media/home-banner-background.webp": "./static/media/home-banner-background.5500368b317b0c283491.webp",
+    "static/media/about-background.webp": "./static/media/about-background.f3ca4318e048b855f619.webp",
+    "index.html": "./index.html",
+    "static/media/pick-meals-image.webp": "./static/media/pick-meals-image.51abf0807376606daf17.webp",
+    "static/media/delivery-image.webp": "./static/media/delivery-image.7267ea5d171c72bf90b4.webp",
+    "static/media/choose-image.webp": "./static/media/choose-image.02f48df57c77787d7959.webp",
+    "main.42300d1c.css.map": "./static/css/main.42300d1c.css.map",
+    "main.867da7f6.js.map": "./static/js/main.867da7f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.867da7f6.js"
+  ]
+}
